@@ -1,2 +1,2 @@
 # mobcom
-Tugas mobile computing berupa mock-up tentang e-commerce penjualan produk dengan merek Cadbury.
+Tugas mobile computing berupa mock-up dan apk tentang e-commerce penjualan produk bermerek Cadbury.
